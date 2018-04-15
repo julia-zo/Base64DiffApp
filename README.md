@@ -33,7 +33,7 @@ Unit Test coverage is provided by JaCoCo, you can find the report at `./target/j
 ### Running Integration Tests
 There are 21 integration tests that set the Line and Branch coverage at 95%.
 
-All integration tests are located in class [Base64DiffAppIntTest](./src/test/java/org/juliazo/dif/Base64DiffAppIntTest.java)
+All integration tests are located in class [Base64DiffAppIntTest](./src/test/java/org/juliazo/diff/Base64DiffAppIntTest.java)
 
 To run only integration tests:
 ```
